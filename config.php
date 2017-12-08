@@ -4,11 +4,11 @@ error_reporting(0);
 session_start();
 
 /* DATABASE CONFIGURATION */
-define('DB_SERVER', 'mydatabasegp.c7xgtid4bjv2.ap-southeast-1.rds.amazonaws.com');
-define('DB_USERNAME', 'admin');
-define('DB_PASSWORD', 'admin1234');
+define('DB_SERVER', 'localhost');
+define('DB_USERNAME', 'root');
+define('DB_PASSWORD', 'mysqlapirest123');
 define('DB_DATABASE', 'apiDB');
-define("BASE_URL", "http://35.227.81.79/api/");
+define("BASE_URL", "http://104.196.108.157/api/");
 define("SITE_KEY", 'yourSecretKey');
 
 
