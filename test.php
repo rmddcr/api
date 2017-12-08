@@ -3,9 +3,9 @@
 
 <?php
 
-$servername = "mydatabasegp.c7xgtid4bjv2.ap-southeast-1.rds.amazonaws.com";
-$username = "admin";
-$password = "admin1234";
+$servername = "localhost";
+$username = "root";
+$password = "mysqlapirest123";
 $database = "apiDB";
 
 // Create connection
